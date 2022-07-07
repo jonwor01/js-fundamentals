@@ -12,7 +12,7 @@ const numOnePlusNumTwo = (numOne + numTwo)
 const numThreeTimesNumTwo = (numThree * numTwo)
 
 // Set this variable to numThree divided by numOne
-const numThreeDividedByNumOne = (numThree /numOne)
+const numThreeDividedByNumOne = (numThree / numOne)
 
 // Set this variable to numThree minus numOne
 const numThreeMinusNumOne = (numThree -numOne)

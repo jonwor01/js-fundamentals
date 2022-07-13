@@ -4,6 +4,10 @@ const evenNums = []
 const countdown = []
 
 // TODO: Write a for loop that adds the numbers 0 to 3 to the numsZeroToThree array
+for (i = 0; i <= 3; i++) {
+  console.log(numsZeroToThree.push(i))
+}
+
 
 // TODO: Write a for loop that adds the numbers 5 to 10 to the numsFiveToTen array
 
